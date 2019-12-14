@@ -3,8 +3,8 @@
 <dictionary>
   <alphabet></alphabet>
   <sdefs>
-    <sdef n="n" 	c="Noun . നാമം"/> 
-    <sdef n="np" 	c="Proper noun"/> 
+    <sdef n="n" 	  c="Noun . നാമം"/> 
+    <sdef n="np" 	  c="Proper noun"/> 
     <sdef n="adv" 	c="Adverb . ക്രിയാ വിശേഷണപദം"/> 
     <sdef n="adj" 	c="Adjective . നാമവിശേഷണം"/> 
     <sdef n="num" 	c="Numeral"/> 
@@ -12,19 +12,19 @@
     <sdef n="prn" 	c="Pronoun .സര്‍വ്വനാമം"/> 
     <sdef n="post" 	c="Postposition"/> 
     <sdef n="spost" 	c="Separable postposition"/> 
-    <sdef n="ij" 	c="Interjection"/> 
+    <sdef n="ij" 	  c="Interjection"/> 
     <sdef n="vbser" 	c="Verb 'to be'"/> 
     <sdef n="preadv" 	c="Preadverb"/> 
     <sdef n="cnjcoo" 	c="Co-ordinating conjunction"/> 
-    <sdef n="m" 	c="Masculine · പുല്ലിംഗം"/> 
-    <sdef n="f" 	c="Feminine · സ്ത്രീലിമ്ഗം "/> 
-    <sdef n="nt" 	c="Neuter · നപുംസകലിംഗം"/> 
-    <sdef n="mf" 	c="Masculine / Feminine · पु:लिंग /स्त्रीलिंग"/> 
+    <sdef n="m" 	  c="Masculine · പുല്ലിംഗം"/> 
+    <sdef n="f" 	  c="Feminine · സ്ത്രീലിമ്ഗം "/> 
+    <sdef n="nt" 	  c="Neuter · നപുംസകലിംഗം"/> 
+    <sdef n="mf" 	  c="Masculine / Feminine · पु:लिंग /स्त्रीलिंग"/> 
     <sdef n="mfn" 	c="Masculine / Feminine / Neuter · पु:लिंग / स्त्रीलिंग / नपुसकलिंग"/> 
-    <sdef n="inf" /> 
-    <sdef n="sg" 	c="Singular . ഏകവചനം"/> 
-    <sdef n="pl" 	c="Plural . ബഹുവചനം"/> 
-    <sdef n="sp" 	c="Singular / Plural . एकवचन / अनेकवचन"/> 
+    <sdef n="inf"   c="Infinitive"/> 
+    <sdef n="sg" 	  c="Singular . ഏകവചനം"/> 
+    <sdef n="pl" 	  c="Plural . ബഹുവചനം"/> 
+    <sdef n="sp" 	  c="Singular / Plural . एकवचन / अनेकवचन"/> 
     <sdef n="det" 	c="determinats"/> 
     <sdef n="ind" 	c="determinats"/> 
     <sdef n="nom" 	c="Nominative"/> 
@@ -35,40 +35,40 @@
     <sdef n="voc" 	c="Vocative"/> 
     <sdef n="gen" 	c="Genitive"/> 
     <sdef n="loc" 	c="Locative"/> 
-    <sdef n="p1" 	c="First person · प्रथम पुरुष"/> 
-    <sdef n="p2" 	c="Second person · द्वितिय पुरुष"/> 
-    <sdef n="p3" 	c="Third person · तृतिय पुरुष"/> 
-    <sdef n="past" /> 
+    <sdef n="p1" 	  c="First person · प्रथम पुरुष"/> 
+    <sdef n="p2" 	  c="Second person · द्वितिय पुरुष"/> 
+    <sdef n="p3" 	  c="Third person · तृतिय पुरुष"/> 
+    <sdef n="past"  c="Past"/> 
     <sdef n="vaux" 	c="oxilary verb"/> 
     <sdef n="pres" 	c="Present tense . वर्तमानकाळ"/> 
     <sdef n="pprs" 	c="Present participle tense"/> 
-    <sdef n="neg" /> 
+    <sdef n="neg"   c="Negative"/> 
     <sdef n="ant" 	c="Anthroponym"/> 
-    <sdef n="cog" 	c=""/> 
-	<sdef n="top" 	c=""/> 
+    <sdef n="cog" 	c="Cognomen"/> 
+	  <sdef n="top" 	c="Toponym"/> 
     <sdef n="pers" 	c="Personal"/> 
     <sdef n="itg" 	c="Interrogative"/> 
     <sdef n="subj" 	c="Subject . क्रियापद"/> 
     <sdef n="obj" 	c="object"/> 
-    <sdef n="cm" 	c="Comma"/> 
-    <sdef n="pquot" 	c="Quotation mark"/> 
+    <sdef n="cm" 	  c="Comma"/> 
+    <sdef n="pquot" 	c="Parquote"/> 
     <sdef n="sent" 	c="Sentence marker"/> 
-    <sdef n="FD" 	c="Function to be determined"/> 
-    <sdef n="v" 	c="Verb . ക്രിയ"/> 
+    <sdef n="FD" 	  c="Function to be determined"/> 
+    <sdef n="v" 	  c="Verb . ക്രിയ"/> 
     <sdef n="vblex" 	c="Verb . ക്രിയ"/> 
     <sdef n="pos" 	c="possessive"/> 
     <sdef n="sint" 	c="sinthetic"/> 
     <sdef n="dem" 	c="demonstrative"/> 
-    <sdef n="def" /> 
-    <sdef n="tv" 	c="transitive"/> 
-    <sdef n="iv" 	c="intransitive"/> 
-    <sdef n="pr" /> 
+    <sdef n="def"   c="Definite"/> 
+    <sdef n="tv" 	  c="transitive"/> 
+    <sdef n="iv" 	  c="intransitive"/> 
+    <sdef n="pr"    c="Preposition"/> 
     <sdef n="vbcop" /> 
-    <sdef n="cnjadv" /> 
-    <sdef n="qst" /> 
-    <sdef n="quot" /> 
-    <sdef n="rpar" /> 
-    <sdef n="lpar" /> 
+    <sdef n="cnjadv" c="Conjunctive adverb"/> 
+    <sdef n="qst"   c="Question mark"/> 
+    <sdef n="quot"  c="Quotation mark"/> 
+    <sdef n="rpar"  c="Right parenthesis"/> 
+    <sdef n="lpar"  c="Left parenthesis"/> 
   </sdefs>
   <section id="main" type="standard">
 
